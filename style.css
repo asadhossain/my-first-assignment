@@ -23,6 +23,7 @@ h1 {
 }
 .flex-box { 
     display: flex;
+    margin-bottom: 60px;
 }
 
 .div-asad {
@@ -94,3 +95,30 @@ h1 {
     background-color: rgba(255, 217, 0, 0.274);
     border-radius: 10%;
 }
+
+.image {
+
+    width: 40%;
+}
+
+.image img {
+    width: 100%;
+}
+
+.contentt{
+    width: 60%;
+}
+
+.image-two {
+
+    width: 40%;
+}
+
+.image-two img {
+    width: 100%;
+}
+
+.contentt-two{
+    width: 60%;
+}
+
