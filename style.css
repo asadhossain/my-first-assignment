@@ -121,4 +121,39 @@ h1 {
 .contentt-two{
     width: 60%;
 }
+.go-corona { 
 
+}
+
+.half-widthh {
+
+    width: 60%;
+}
+
+.image-aa {
+    width: 40%;
+    display: block;
+    padding-left: 10%;
+}
+
+.image-aa img{ width: 100%;
+align: center;}
+
+
+.width-last-img {
+    width: 40%;
+
+}
+
+.width-last-img img{
+   width: 100%;
+
+}
+
+.half-last-content {
+
+    width: 60%;
+    margin-top: 10%;
+    margin-right: 50px;
+
+}
