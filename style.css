@@ -7,6 +7,10 @@ body {
 
   color: orange;
 }
+.my-mission { 
+    text-align: center;
+    font-weight: 800;
+                }
 
 .sec-one-hero { background-image: url(images/top-banner.png);
                 background-repeat: no-repeat;
@@ -17,8 +21,13 @@ body {
 h1 {
     font-size: 40px;
 }
-section { 
+.flex-box { 
     display: flex;
+}
+
+.div-asad {
+ 
+
 }
 
 .half-width {
@@ -36,21 +45,52 @@ section {
 .half-width p {
 
     text-align: justify;
+    margin-bottom: 30px;
+    margin-top: 30px;
 }
 .link-btn {
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
     padding: 10px 40px;
     color: wheat;
-   font-weight: 700;
-   border-radius: 10px ;
+   font-weight: 800;
+   border-radius: 10px;
+   
   
+}
+.section-two {
+ 
 }
 
 .section-two h1 {
-text-align: center;
+    font-weight: 800;
 }
 
 .three-width {
+   padding: 20px;
     width: 33.33%;
+    margin: 5%;
+
+
+}
+.three-width img {
+    width:  40%;
+}
+.Mission-one {
+
+    background-color: rgba(255, 0, 0, 0.274);
+    border-radius: 10%;
+}
+
+.Mission-two {
+
+    background-color: rgba(0, 255, 128, 0.274);
+    border-radius: 10%;
+}
+
+.Mission-three {
+   
+
+    background-color: rgba(255, 217, 0, 0.274);
+    border-radius: 10%;
 }
