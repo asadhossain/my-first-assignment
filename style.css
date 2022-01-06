@@ -157,3 +157,25 @@ align: center;}
     margin-right: 50px;
 
 }
+
+footer{ 
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: black;
+}
+.color-red {
+     color: red;
+     
+}
+
+h4 {
+color: wheat;
+    text-align: center;
+     font-size: 25px;
+}
+footer p {
+    color: white;
+    text-align: center;
+    margin: 0;
+
+}
