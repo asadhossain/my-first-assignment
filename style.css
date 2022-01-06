@@ -1,0 +1,39 @@
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+.span-class-orange {
+
+  color: orange;
+}
+h1 {
+    font-size: 50px;
+}
+section { 
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 8%;
+
+}
+.half-width img {
+
+    width: 60%;
+}
+
+.half-width p {
+
+    text-align: justify;
+}
+.link-btn {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: wheat;
+   font-weight: 700;
+   border-radius: 10px ;
+   margin-top: 10px;
+   margin-bottom: 10px;
+}
